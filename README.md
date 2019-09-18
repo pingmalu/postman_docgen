@@ -2,6 +2,11 @@
 
 集成postman自动生成接口文档
 
+![demo1.png](demo1.png)
+
+![demo2.png](demo2.png)
+
+
 # 用法
 
 ## 1.修改config.php配置文件
@@ -32,4 +37,4 @@ $config['tk'] 是自己的apikey
 ## 4.触发更新hooks
 
 
-访问网站目录下的update.php，例： [http://192.168.1.45/api_m/](http://192.168.1.45/api_m/)
+访问网站目录下的update.php，例： [http://192.168.1.45/api_m/update.php](http://192.168.1.45/api_m/update.php)
