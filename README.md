@@ -2,6 +2,8 @@
 
 集成postman自动生成接口文档
 
+## Demo
+
 ![demo1.png](demo1.png)
 
 ![demo2.png](demo2.png)
@@ -9,7 +11,7 @@
 
 # 用法
 
-## 1.修改config.php配置文件
+## 1.下载项目，修改config.php配置文件
 
     <?php
     $config['title'] = 'xxx接口文档';
@@ -21,9 +23,11 @@
 
 根据自己项目，把对应的参数填入
 
-其中 $config['lists'] 是postman的collections ID
+$config['title'] 项目标题
 
-$config['tk'] 是自己的apikey
+$config['lists'] 是postman的collections ID
+
+$config['tk'] 是postman的apikey
 
 ## 2.把项目放在php环境
 
