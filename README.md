@@ -37,17 +37,19 @@ $config['lists'] 是postman的collections ID
 
 $config['tk'] 是postman的apikey
 
-### collections ID 如何获取?
+### * collections ID 如何获取?
 
 打开网址：https://app.getpostman.com/
 
 找到对应的collections，把浏览器地址栏中collections后面的ID复制下来
 
-### postman的apikey 如何获取？
+![postman_collections.png](postman_collections.png)
+
+### * postman的apikey 如何获取？
 
 打开网址：https://app.getpostman.com/
 
-找到个人中心，生成apikey，把对应的apikey复制下来
+找到个人 -> Postman API keys -> Postman API keys，生成apikey，把对应的apikey复制下来
 
 ## 4.把项目放在php环境
 
