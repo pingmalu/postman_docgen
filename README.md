@@ -33,9 +33,9 @@
 
 $config['title'] 项目标题
 
-$config['lists'] 是postman的collections ID
+$config['lists'] 是postman的[collections ID](#-collections-id-如何获取)
 
-$config['tk'] 是postman的apikey
+$config['tk'] 是postman的[apikey](#-postman的apikey-如何获取)
 
 ### * collections ID 如何获取?
 
